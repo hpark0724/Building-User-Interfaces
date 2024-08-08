@@ -1,0 +1,22 @@
+.inline {
+  display: inline-block;
+  margin: 0.5rem;
+}
+
+.saleItem {
+  padding: 2rem;
+  box-sizing: border-box;
+}
+
+.saleItem.featured {
+  background-color: #ff2323;
+  color: white;
+  padding: 2rem;
+  box-sizing: border-box;
+}
+
+.welcome {
+  text-align: "center";
+  font-size: 20px;
+  margin-bottom: 1.5rem;
+}
